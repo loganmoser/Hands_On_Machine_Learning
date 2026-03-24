@@ -1,0 +1,16 @@
+{
+  "files": {
+    "LOGAN.xplane.pb": "1774098661-561952"
+  },
+  "tools": [
+    "overview_page",
+    "trace_viewer@",
+    "op_profile",
+    "input_pipeline_analyzer",
+    "memory_profile",
+    "roofline_model",
+    "framework_op_stats",
+    "hlo_stats"
+  ],
+  "version": 1
+}
